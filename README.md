@@ -2,9 +2,6 @@
 
     Ecommerce Website Using HTML CSS & JavaScript | Bicycle Website
 
-# Video
-
-    https://youtu.be/uZI_1qGzHyM
 
 # Description
 
